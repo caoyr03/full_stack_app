@@ -8,7 +8,7 @@ To track the progress of this application development, Trello board is used to m
 I used Balsamiq.com to create a logical prototype to mock the design of my front-end application. You could find it here: 
 
 ## Backend Web Services
-This app used 
+This app used RESTful web service which consumes requests from a front-end web application and caches each request and the respective response to a database.
 ### Data Models and UML, Controller Logic
 Spring was used to annotate each respective Controller class, which included 
 - Container for the model objects to be persisted in database
