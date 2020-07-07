@@ -15,7 +15,7 @@ Spring was used to annotate each respective Controller class, which included
 - Controllers which can receive and respond to requests from the front-end application
 - Back-end service used by controllers to handle business logic of web-transactions
 
-### Front-end Implementation
+## Front-end Implementation
 This app used React to implement a client-facing application which crosses regions with the web server. Routing requests are involved to route incoming requests from backend controller to respective front-end controller endpoint.
 
 ## Database Integration and Server Cloud Deployment
