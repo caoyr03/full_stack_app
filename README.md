@@ -1,8 +1,16 @@
 # My Full-Stack Web Application
-Welcome to my full stack web application! 
+Welcome to my full stack web application! This project is a Q/A platform that connects people with questions about immigration issues in America. This website aims to help cultivating a community for people with immigration status to support each other and share information and knowledge. 
 
 ## Ideation
-To track the progress of this application development, Trello board is used to manage the project. 
+- Users could view all the open questions online about immigration status, with a list view allowing searching function
+- Users could view the question stats on the main page, including total questions, total answers, questions solved.
+- Users need to log in to ask a question or answer a question 
+- Users could access their profiles to view their own questions and answers
+
+To track the progress of this application development, Trello board is used to manage the project. https://trello.com/b/fcrQoBst/qaapp
+
+## Quick Start
+`npm start`
 
 ## Wireframe Design
 I used Balsamiq.com to create a logical prototype to mock the design of my front-end application. You could find it here: 
@@ -23,3 +31,4 @@ This project used Heroku to create and configure a live database instance. Herok
 
 ## Application Cloud Deployment
 The frontend of this application was deployed to a persistent container using Netlify.
+
